@@ -1,6 +1,20 @@
 # Condiciones
-*Básico* pero **importante**
+>*Básico* pero **importante**
 ## If/else
-> if (condition) {
->
->}
+ ~~~~
+ if (condition) {
+ /* */
+} else {
+
+}
+~~~~
+
+## Switch
+~~~~
+switch (expression){
+  case value1:
+  /* */
+  break:
+  /* */
+  default: 
+}
